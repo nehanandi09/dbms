@@ -1,0 +1,23 @@
+.jumbotron{
+	background-color:#267C5B !important;
+	background-size: cover;
+}
+h1{
+	color: white;
+	font-size: 50pt;
+}
+h2{
+	font-size: 22pt;
+	color: #267C5B;
+}
+.box{
+	width:1000px;
+}
+.box2
+{
+	width: 300px;
+}
+a.custom-card,
+a.custom-card:hover {
+  color: inherit;
+}
